@@ -1,4 +1,4 @@
-create table fundamentals (
+create table fundamentals_monthly (
     date date,
     ticker text,
     metric text,
