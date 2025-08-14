@@ -20,5 +20,3 @@ Unfortunately, a portion of this project will not be able to be run by the gener
 
 For stock-pricing data, however, I suggest you look at my `stat-arb-in-us-equities` project and it's data filling to get constituents for the `S&P 500` as well as getting daily pricing (and then aggregating to weekly and monthly prices).
 
-### Momentum
-
